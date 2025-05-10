@@ -1,0 +1,5 @@
+pip install streamlit pyttsx3 speech_recognition
+
+pip install PyAudio
+
+streamlit run app.py
